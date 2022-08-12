@@ -1,0 +1,154 @@
+body {
+  background-color: #1F2937;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 12px;
+    top: 12px;
+}
+h1{
+  position: absolute;
+  width: 354px;
+  height: 40px;
+  left: 12px;
+  top: 15px;
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 40px;
+  letter-spacing: -0.025em;
+  color:#ffffff;
+}
+span{
+  color:hsla(144, 70%, 58%, 1);
+}
+p{
+  color:#D5D4D8;
+  position: absolute;
+  width: 372px;
+  height: 28px;
+  left: 12px;
+  top:  120px;
+  font-family: 'inter' ;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+}
+#save{
+  color: floralwhite ;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 9px 17px 9px 15px;
+  gap: 12px;
+  position: relative;
+  width: 191px;
+  height: 42px;
+  left: 230px;
+  top: 210px;
+  background: #10B981;
+  border-radius:6px;
+  font-size: 15px;
+}
+#copy1{
+  color: floralwhite ;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 9px 17px 9px 15px;
+  gap: 12px;
+  position: absolute;
+  width: 191px;
+  height: 42px;
+  left: 12px;
+  top: 410px;
+  background: #10B981;
+  border-radius:6px;
+  font-size: 15px;
+}
+#copy2{
+  color: floralwhite ;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 9px 17px 9px 15px;
+  gap: 12px;
+  position: absolute;
+  width: 191px;
+  height: 42px;
+  left: 230px;
+  top: 410px;
+  background: #10B981;
+  border-radius:6px;
+  font-size: 15px;
+
+}
+
+button {
+  color: floralwhite ;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 9px 17px 9px 15px;
+  gap: 12px;
+  position: absolute;
+  width: 191px;
+  height: 42px;
+  left: 12px;
+  top: 210px;
+  background: #10B981;
+  border-radius:6px;
+  font-size: 15px;
+}
+hr{
+  position: absolute;
+  width: 446px;
+  height: 0px;
+  left: 12px;
+  top: 290px;
+  border :1px solid  #2F3E53;
+}
+#password1-el{
+position: absolute;
+width: 200px;
+height: 39px;
+left: 12px;
+top: 350px;
+ background-color: #273549;
+ border-radius: 6px;
+ color:#10B981;
+ font-weight: bold;
+ text-align: center;
+ justify-content: center;
+ text-justify: center;
+}
+#password2-el{
+  position: absolute;
+  width: 200px;
+  height: 39px;
+  left: 230px;
+  top: 350px;
+  background-color: #273549;
+ border-radius: 6px;
+ color:#10B981;
+ font-weight: bold;
+ text-align: center;
+ justify-content: center;
+}
+#old-passwords{
+  position: absolute;
+  top:490px;
+  width:300px;
+  height: 500px;
+  background-color: #273549;
+  border-radius: 6px;
+  color: #10B981;
+  font-weight: bold;
+  left: 78px;
+}
