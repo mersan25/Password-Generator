@@ -36,6 +36,7 @@ p{
   font-size: 20px;
   line-height: 28px;
 }
+/*
 #save{
   color: floralwhite ;
   display: flex;
@@ -88,6 +89,7 @@ p{
   font-size: 15px;
 
 }
+*/
 
 button {
   color: floralwhite ;
@@ -141,6 +143,7 @@ top: 350px;
  text-align: center;
  justify-content: center;
 }
+/*
 #old-passwords{
   position: absolute;
   top:490px;
@@ -152,3 +155,5 @@ top: 350px;
   font-weight: bold;
   left: 78px;
 }
+*/
+
